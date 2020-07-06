@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace HxCx {
+namespace HxCx.Ex1 {
     public class Presenter : MonoBehaviour {
 
         Button _changeButton;
